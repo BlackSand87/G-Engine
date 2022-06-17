@@ -1,0 +1,16 @@
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.exe
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.deps.json
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.runtimeconfig.json
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.runtimeconfig.dev.json
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.pdb
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.AssemblyReference.cache
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G_Engine.GLFW.Strings.resources
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.GenerateResource.cache
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.AssemblyInfoInputs.cache
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.AssemblyInfo.cs
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.CoreCompileInputs.cache
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.pdb
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.genruntimeconfig.cache

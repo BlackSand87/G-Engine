@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "06tQQ6rpaFs+EUc3TsVtbD/IJM0agrttIE6baQWy2ataC5w2q9aiaLv2OlixGQCejZRuoar3V1V7HfV7Rpj5CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BlackSand87\\source\\repos\\G-Engine\\G-Engine\\G-Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BlackSand87\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
