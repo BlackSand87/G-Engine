@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Numerics;
@@ -69,14 +69,21 @@ namespace GEngine
             shader = new Shader(vertexShader, fragmentShader);
             shader.Load();
 
-            System.Drawing.Bitmap text = Properties.Resources.test_atlas;
-            text.RotateFlip(System.Drawing.RotateFlipType.RotateNoneFlipY);
+            //Commented out due to atlas being removed in repos
+            //In Visual Studio just add a png file called 'test_atlas.png' and you're good to go
+            //To actually see something use Actor <name> = new Actor(<position>, <rotation>, <scale>, <material>);
+            //Then Hierarchy.loadActor(<actor>);
+            //Of course replace things in the <> with the accoring variables/names
 
-            texture = new PNGTexture(text);
-            texture.Create();
+            //System.Drawing.Bitmap text = Properties.Resources.test_atlas;
+            //text.RotateFlip(System.Drawing.RotateFlipType.RotateNoneFlipY);
+
+            //texture = new PNGTexture(text);
+            //texture.Create();
 
             gameCamera = new Camera2D(WindowManager.windowSize / 2f, 2);
         }
+        
         protected override void Update()
         {
             
