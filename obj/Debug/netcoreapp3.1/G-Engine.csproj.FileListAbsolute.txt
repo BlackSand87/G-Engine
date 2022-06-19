@@ -5,7 +5,6 @@ C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-En
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.dll
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\G-Engine.pdb
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.AssemblyReference.cache
-C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G_Engine.GLFW.Strings.resources
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.GenerateResource.cache
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.AssemblyInfoInputs.cache
@@ -14,3 +13,12 @@ C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-En
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.dll
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.pdb
 C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.genruntimeconfig.cache
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\GEngine.GLFW.Strings.resources
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\G-Engine.csproj.CopyComplete
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\obj\Debug\netcoreapp3.1\GEngine.Properties.Resources.resources
+C:\Users\BlackSand87\source\repos\G-Engine\G-Engine\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
